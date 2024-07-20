@@ -1608,6 +1608,9 @@ mail.bestcable.ir
 mail.biaun.ir
 mail.behlemo.ir
 ftp.asnu.ir
+104.24.33.150
+104.25.215.37
+104.21.67.130
 ftp.bakieh.ir
 ftp.bestcable.ir
 visa2.visiter.ir
